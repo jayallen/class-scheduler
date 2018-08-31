@@ -1,4 +1,4 @@
-# CLass Scheduler app
+# Class Scheduler app
 
 ## REQUIREMENTS
 
@@ -15,4 +15,5 @@ Write code that implements this requirement.
 ## NOTES
 
 * Classes may meet multiple times per day
-* These are internally used so no need to check for malicious or invalid values
+* All classes start on the hour and may go multiple hours
+* These are internally used libraries so no need to check for malicious or invalid values
